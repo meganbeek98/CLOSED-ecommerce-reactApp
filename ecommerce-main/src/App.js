@@ -7,9 +7,9 @@ import Products from './components/Products';
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <Products />
-      <Footer />
+      <Navbar></Navbar>
+      <Products></Products>
+      <Footer></Footer>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
