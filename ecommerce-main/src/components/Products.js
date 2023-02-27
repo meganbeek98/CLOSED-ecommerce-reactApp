@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 function Products() {
   return (
       <div className="home-section">
@@ -6,11 +7,11 @@ function Products() {
               <section class="bg-primary py-5">
                   <div class="container">
                       <h2 class="text-white">Men's wear</h2>
-                      <ol class="breadcrumb ondark mb-0">
+                      {/* <ol class="breadcrumb ondark mb-0">
                       <li class="breadcrumb-item"><a href="#">Home</a></li>
                       <li class="breadcrumb-item"><a href="#">Library</a></li>
                       <li class="breadcrumb-item active" aria-current="page">Data</li>
-                      </ol>
+                      </ol> */}
                   </div> 
               </section>
           
@@ -35,14 +36,14 @@ function Products() {
                   </header>
                   <div class="collapse show" id="collapse_aside1">
                   <div class="card-body">
-                  <ul class="list-menu">
-                      <li><a href="#">Women's Clothing</a></li>
-                      <li><a href="#">Men's Clothing </a></li>
-                      <li><a href="#">Gifts for Her </a></li>
-                      <li><a href="#">Gifts for Him </a></li>
-                      <li><a href="#">Home Decor </a></li>
-                      <li><a href="#">Cool Tech </a></li>
-                  </ul>
+                    <ul class="list-menu">
+                        <li><a href="#">Women's Clothing</a></li>
+                        <li><a href="#">Men's Clothing </a></li>
+                        <li><a href="#">Gifts for Her </a></li>
+                        <li><a href="#">Gifts for Him </a></li>
+                        <li><a href="#">Home Decor </a></li>
+                        <li><a href="#">Cool Tech </a></li>
+                    </ul>
                   </div> 
                   </div> 
                   </article> 

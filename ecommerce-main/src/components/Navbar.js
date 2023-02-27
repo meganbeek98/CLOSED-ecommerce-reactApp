@@ -7,7 +7,7 @@ function Navbar() {
               <div class="row gy-3 align-items-center">
               <div class="col-lg-2 col-sm-4 col-4">
                   <a href="./Navbar.js" class="navbar-brand">
-                  Ecommerce Project
+                  EcommProducts
                   </a> 
               </div>
               <div class="order-lg-last col-lg-5 col-sm-8 col-8">
@@ -27,12 +27,6 @@ function Navbar() {
                   <form action="#" class="">
                           <div class="input-group">
                           <input type="search" class="form-control" style={{width:"55%"}} placeholder="Search" />
-                          <select class="form-select">
-                              <option value="">All type</option>
-                              <option value="codex">Special</option>
-                              <option value="comments">Only best</option>
-                              <option value="content">Latest</option>
-                          </select>
                           <button class="btn btn-primary">
                               <i class="fa fa-search"></i> 
                           </button>
