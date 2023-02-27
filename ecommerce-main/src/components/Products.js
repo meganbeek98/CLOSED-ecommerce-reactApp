@@ -46,55 +46,55 @@ function Products() {
                   </div> 
                   </div> 
                   </article> 
-              
-                  <article class="filter-group">
+                            {/* START OF CHECKBOXES FOR CATEGORIES */}
+                  {/* <article class="filter-group">
                   <header class="card-header">
                   <a href="#" class="title" data-bs-toggle="collapse" data-bs-target="#collapse_aside_brands">
-                  <i class="icon-control fa fa-chevron-down"></i>  Brands 
+                  <i class="icon-control fa fa-chevron-down"></i>  Categories 
                   </a>
                   </header>
                   <div class="collapse show" id="collapse_aside_brands">
                   <div class="card-body">
                       <label class="form-check mb-2">
                       <input class="form-check-input" type="checkbox" value="" checked/>
-                      <span class="form-check-label"> Mercedes </span>
+                      <span class="form-check-label"> Women's Clothing </span>
                       <b class="badge rounded-pill bg-gray-dark float-end">120</b>
                       </label>
               
                       <label class="form-check mb-2">
                       <input class="form-check-input" type="checkbox" value="" checked/>
-                      <span class="form-check-label"> Toyota </span>
+                      <span class="form-check-label"> Men's Clothing </span>
                       <b class="badge rounded-pill bg-gray-dark float-end">15</b>
                       </label>
               
                       <label class="form-check mb-2">
                       <input class="form-check-input" type="checkbox" value="" checked/>
-                      <span class="form-check-label"> Mitsubishi </span>
+                      <span class="form-check-label"> Gifts for Her </span>
                       <b class="badge rounded-pill bg-gray-dark float-end">35</b>
                       </label>
               
                       <label class="form-check mb-2">
                       <input class="form-check-input" type="checkbox" value="" checked/>
-                      <span class="form-check-label"> Nissan </span>
+                      <span class="form-check-label"> Gifts for Him </span>
                       <b class="badge rounded-pill bg-gray-dark float-end">89</b>
                       </label>
               
                       <label class="form-check mb-2">
                       <input class="form-check-input" type="checkbox" value=""/>
-                      <span class="form-check-label"> Honda </span>
+                      <span class="form-check-label"> Home Decor </span>
                       <b class="badge rounded-pill bg-gray-dark float-end">30</b>
                       </label>
               
                       <label class="form-check mb-2">
                       <input class="form-check-input" type="checkbox" value=""/>
-                      <span class="form-check-label"> Honda accord </span>
+                      <span class="form-check-label"> Cool Tech </span>
                       <b class="badge rounded-pill bg-gray-dark float-end">30</b>
                       </label>
                   </div> 
                   </div> 
-                  </article>
-              
-                  <article class="filter-group">
+                  </article> */}
+                                    {/* START OF PRICE RANGE PICKING FEATURE */}
+                  {/* <article class="filter-group">
                   <header class="card-header">
                   <a href="#" class="title" data-bs-toggle="collapse" data-bs-target="#collapse_aside2">
                   <i class="icon-control fa fa-chevron-down"></i>  Price 
@@ -117,9 +117,10 @@ function Products() {
                   <button class="btn btn-light w-100" type="button">Apply</button>
                   </div> 
                   </div> 
-                  </article> 
+                  </article>  */}
               
-                  <article class="filter-group">
+                                {/* START OF SIZE RANGE PICKER */}
+                  {/* <article class="filter-group">
                   <header class="card-header">
                   <a href="#" class="title" data-bs-toggle="collapse" data-bs-target="#collapse_aside3">
                   <i class="icon-control fa fa-chevron-down"></i>  Size 
@@ -148,7 +149,7 @@ function Products() {
                       </label>
                   </div> 
                   </div> 
-                  </article>  
+                  </article>   */}
               
                   
               
