@@ -3,7 +3,6 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Products from './components/Products';
-import Home from './components/Home';
 
 function App() {
   return (
@@ -11,7 +10,6 @@ function App() {
       <Navbar></Navbar>
       <Products></Products>
       <Footer></Footer>
-      <Home></Home>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
