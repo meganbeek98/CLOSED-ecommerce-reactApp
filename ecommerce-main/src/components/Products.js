@@ -30,20 +30,18 @@ function Products() {
                   <article class="filter-group">
                   <header class="card-header">
                   <a href="#" class="title" data-bs-toggle="collapse" data-bs-target="#collapse_aside1">
-                  <i class="icon-control fa fa-chevron-down"></i>   Related items 
+                  <i class="icon-control fa fa-chevron-down"></i>   Shop by Category 
                   </a>
                   </header>
                   <div class="collapse show" id="collapse_aside1">
                   <div class="card-body">
                   <ul class="list-menu">
-                      <li><a href="#">Electronics </a></li>
-                      <li><a href="#">Accessories  </a></li>
-                      <li><a href="#">Home items </a></li>
-                      <li><a href="#">Men's clothing </a></li>
-                      <li><a href="#">Interior items </a></li>
-                      <li><a href="#">Magazines </a></li>
-                      <li><a href="#">Category name </a></li>
-                      <li><a href="#">Home items </a></li>
+                      <li><a href="#">Women's Clothing</a></li>
+                      <li><a href="#">Men's Clothing </a></li>
+                      <li><a href="#">Gifts for Her </a></li>
+                      <li><a href="#">Gifts for Him </a></li>
+                      <li><a href="#">Home Decor </a></li>
+                      <li><a href="#">Cool Tech </a></li>
                   </ul>
                   </div> 
                   </div> 
